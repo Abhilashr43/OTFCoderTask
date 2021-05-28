@@ -1,0 +1,25 @@
+.navbar-laravel {
+    background-color: #878585;
+}
+
+.card-header {
+    background-color: #878585;
+    justify-content: center;
+    display: flex;
+}
+
+.card-body {
+    background-color: whitesmoke;
+}
+
+.card {
+    border: 1px solid black;
+}
+
+.show {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
